@@ -41,7 +41,6 @@ main {
 .container h2 {
   font-size: 2rem;
   line-height: 1.25;
-  text-transform: capitalize;
   letter-spacing: var(--spacing);
   font-family: var(--f-primary);
   color: var(--c-white);
