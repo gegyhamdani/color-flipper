@@ -38,7 +38,7 @@ main {
   font-family: var(--f-primary);
   color: var(--c-white);
   background-color: var(--c-black);
-  padding: 3rem;
+  padding: 2rem;
   border-radius: var(--radius);
   margin: 3rem;
 }
