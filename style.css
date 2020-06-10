@@ -29,16 +29,24 @@ main {
 }
 
 .container h1 {
+  font-size: 2rem;
+  line-height: 1.25;
+  text-transform: capitalize;
+  letter-spacing: var(--spacing);
   font-family: var(--f-primary);
   color: var(--c-black);
   margin: 0 0 3rem 0;
 }
 
 .container h2 {
+  font-size: 2rem;
+  line-height: 1.25;
+  text-transform: capitalize;
+  letter-spacing: var(--spacing);
   font-family: var(--f-primary);
   color: var(--c-white);
   background-color: var(--c-black);
-  padding: 2rem;
+  padding: 1rem;
   border-radius: var(--radius);
   margin: 3rem;
 }
