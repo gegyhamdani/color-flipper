@@ -71,3 +71,7 @@ main {
   color: var(--c-black);
   background: var(--c-white);
 }
+
+.test {
+  width: 100px; 
+}
